@@ -20,7 +20,7 @@ I'm a QA Engineer with 8+ years of experience in software testing across various
 
 ---
 ### 📫 Contact Details
-How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-@irynakrasochka-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/iryna-krasochka-5869a0129) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:i.krasochko@gmail.com)
+How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/irynakrasochka-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/iryna-krasochka-5869a0129) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:i.krasochko@gmail.com)
 
 ---
 
@@ -56,7 +56,7 @@ How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-@irynakrasochk
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="MongoDB" width="40" height="40"/>&nbsp
 </div>
 
-#### Working with code
+#### Working with Code
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp
