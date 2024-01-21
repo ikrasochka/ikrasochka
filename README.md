@@ -20,7 +20,7 @@ I'm a QA Engineer with 8+ years of experience in software testing across various
 
 ---
 ### 📫 Contact Details
-How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/irynakrasochka-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/iryna-krasochka-5869a0129) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:i.krasochko@gmail.com)
+How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-irynakrasochka-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/iryna-krasochka-5869a0129/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:i.krasochko@gmail.com)
 
 ---
 
