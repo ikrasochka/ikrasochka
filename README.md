@@ -1,22 +1,21 @@
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there, my name is Iryna👋
 
 ---
 
 ### ✨ About Myself
 I'm a QA Engineer with 8+ years of experience in software testing across various industries. My expertise lies in Web and Mobile testing, Agile, QA processes and resource management.
+
+Business Domains:
+
+• Life Sciences & Healthcare
+
+• Health Insurance
+
+• Travel & Hospitality, Airlines
+
+• Retail & Distribution
+
+• Fashion & Luxury Goods
 
 ---
 ### 📫 Contact Details
@@ -61,9 +60,11 @@ How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-irynakrasochka
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
 
 ---
+### 🌱 Current Learning Plans
+
+JavaScript as automation testing language
